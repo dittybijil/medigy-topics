@@ -1,5 +1,5 @@
 {
-  "name": "medigy-topics",
+  "name": "@dittybijil/medigy-topics",
   "version": "1.0.0",
   "type": "module",
   "description": "List medigy topics",
